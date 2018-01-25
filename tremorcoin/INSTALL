@@ -1,0 +1,9 @@
+Building Tremorcoin
+
+See doc/readme-qt.rst for instructions on building Tremorcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tremorcoin.
+
+See doc/build-*.txt for instructions on building tremorcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tremorcoin.
