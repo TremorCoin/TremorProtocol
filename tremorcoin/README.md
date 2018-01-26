@@ -1,7 +1,7 @@
 Tremorcoin integration/staging tree
 ================================
 
-http://www.tremorcoin.org
+http://www.tremorcoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Tremorcoin Developers
@@ -9,17 +9,15 @@ Copyright (c) 2011-2014 Tremorcoin Developers
 What is Tremorcoin?
 ----------------
 
-Tremorcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+Tremorcoin is the world's first Peer-to-Peer Wireless payment currency based on a lite version of Bitcoin.
+ - Proof of Work Algorithm: Scrypt
+ - Maximum Coin Supply: 200,000,000 
+ - Coins per Block: 280 TREM 
+ - Block Targets: 3 minutes
+ - Subsidy Halves: Every 200,000 blocks (~1.2 years)
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the Tremorcoin client sofware, see http://www.tremorcoin.org.
+For more information, as well as an immediately useable, binary version of the Tremorcoin client sofware, see http://www.tremorcoin.com.
 
 License
 -------
