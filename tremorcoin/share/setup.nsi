@@ -7,7 +7,7 @@ SetCompressor /SOLID lzma
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.8.7.5
 !define COMPANY "Tremorcoin project"
-!define URL http://www.tremorcoin.org/
+!define URL http://www.tremorcoin.com/
 
 # MUI Symbol Definitions
 !define MUI_ICON "../share/pixmaps/bitcoin.ico"
